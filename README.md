@@ -1,5 +1,3 @@
-Green Python Developer
-
 ```python
 class EnthusiasticPerson(Person):
     def __init__(self):
